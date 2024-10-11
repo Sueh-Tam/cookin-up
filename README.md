@@ -1,6 +1,6 @@
 # cookin-up
 
-This template should help get you started developing with Vue 3 in Vite.
+This is a study project, to learn how to program with Vue3.js.
 
 ## Recommended IDE Setup
 
