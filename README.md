@@ -1,4 +1,4 @@
-# cookin-up
+# Alura project cookin-up
 
 This is a study project, to learn how to program with Vue3.js.
 
